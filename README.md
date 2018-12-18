@@ -34,7 +34,7 @@ Usage
 Automation step-by-step
 
 ```git
-git clone https://github.com/pyToshka/packer-post-processor-artifactory
+git clone https://github.com/kczauz/packer-post-processor-artifactory
 vi example/packer.json
 Change url,repo name and key for artifactory 
 run 
